@@ -2,6 +2,9 @@
 
 Replaces unsafe characters from html code with safe versions.
 
+Usage:
+`./clean page.html`
+
 Currently replaces:
 
 * single quotes
